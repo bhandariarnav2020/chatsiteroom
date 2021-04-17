@@ -1,0 +1,25 @@
+html,body{
+    height:100%;
+    margin:0;
+   }
+   body{
+       background:linear-gradient(to right top, #009900,#00cc00,#00ff00, #33ff33,#66ff66);
+   }
+   #user_email{
+    width:600px;
+   }
+   .header{
+    font-size:50px;
+    color:orange;
+    font-family:fantasy;
+}
+h3{
+    color:cyan;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+label{
+    color:red;
+    font-size:30px;
+    font-family: cursive;
+}
